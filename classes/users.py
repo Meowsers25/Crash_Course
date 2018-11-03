@@ -15,8 +15,9 @@ class Users():
 
 user_1 = Users('Chris', 'lamothe', 'de34jks', 'providence')
 user_2 = Users('mr', 'robot', '88rd3sw3', 'new york')
+user_3 = Users('luna', 'lamothe', 'woof123', 'prov')
 
 user_2.describe_user()
 user_2.greet_user()
 
-    
+user_3.describe_user()    
